@@ -1,0 +1,290 @@
+[15-Jun-2025 23:15:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/codewith/curemypet.codewithahmedkhan.com/dashboard/login.php:5) in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/login.php on line 105
+[15-Jun-2025 23:16:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/codewith/curemypet.codewithahmedkhan.com/dashboard/login.php:5) in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/login.php on line 105
+[15-Jun-2025 23:16:24 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[15-Jun-2025 23:16:24 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[15-Jun-2025 23:16:24 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[16-Jun-2025 17:08:46 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[16-Jun-2025 17:08:46 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[16-Jun-2025 17:08:46 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[17-Jun-2025 11:45:23 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[17-Jun-2025 11:45:23 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[17-Jun-2025 11:45:23 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[17-Jun-2025 12:03:46 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[17-Jun-2025 12:03:46 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[17-Jun-2025 12:03:46 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[17-Jun-2025 16:35:37 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[17-Jun-2025 16:35:37 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:06:04 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:06:04 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:06:04 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:06:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`services`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php:71
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php(71): mysqli_query(Object(mysqli), 'insert into ser...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php on line 71
+[18-Jun-2025 01:07:04 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:07:04 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:07:04 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:12:20 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:12:20 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:12:20 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:51:14 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:51:14 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:51:14 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:57:02 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:57:02 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:57:02 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 01:57:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`services`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php:71
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php(71): mysqli_query(Object(mysqli), 'insert into ser...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php on line 71
+[18-Jun-2025 01:59:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'description' in 'INSERT INTO' in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php:29
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php(29): mysqli->prepare('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php on line 29
+[18-Jun-2025 01:59:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`services`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php:71
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php(71): mysqli_query(Object(mysqli), 'insert into ser...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/addservice.php on line 71
+[18-Jun-2025 02:02:17 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:02:17 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:02:17 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:02:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php on line 49
+[18-Jun-2025 02:02:35 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:02:35 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:02:35 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:02:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php on line 49
+[18-Jun-2025 02:02:58 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:02:58 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:02:58 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:03:02 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:03:02 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:03:02 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:03:12 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:03:12 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:03:12 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:03:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php on line 49
+[18-Jun-2025 02:03:19 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:03:19 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:03:19 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:05:48 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:05:48 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:05:48 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:05:53 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:05:53 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:05:53 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:09:03 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:09:03 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:09:03 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:09:14 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:09:14 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:09:14 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:10:29 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:10:29 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:10:29 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:30 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:30 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:30 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:36 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:36 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:36 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php on line 73
+[18-Jun-2025 02:16:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php on line 77
+[18-Jun-2025 02:16:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php on line 81
+[18-Jun-2025 02:16:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php on line 85
+[18-Jun-2025 02:16:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php on line 89
+[18-Jun-2025 02:16:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php on line 93
+[18-Jun-2025 02:16:42 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:42 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:42 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:53 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:53 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:53 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:55 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:55 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 02:16:55 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 08:34:55 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 08:34:55 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 08:34:55 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 08:35:05 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 08:35:05 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[18-Jun-2025 08:35:05 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[30-Jun-2025 06:27:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:27:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:27:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:27:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:27:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:27:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:27:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:28:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:28:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:28:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:28:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:28:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 06:28:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 14:26:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 14:26:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 14:26:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 14:34:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 14:34:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[30-Jun-2025 14:34:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'codewith_curemypet.form' doesn't exist in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php:28
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php(28): mysqli_query(Object(mysqli), 'SELECT f.*, d.d...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/index.php on line 28
+[01-Jul-2025 07:12:00 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:12:00 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:12:00 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:15:44 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:15:44 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:15:44 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:16:57 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:16:57 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:16:57 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:17:11 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:17:11 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:17:11 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:17:34 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:17:34 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:17:34 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:18:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's health, ensuring timely treatment.
+', img = 'images.jpg' WHERE id = 12' at line 1 in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php:44
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php(44): mysqli_query(Object(mysqli), 'UPDATE services...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php on line 44
+[01-Jul-2025 07:19:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's health, ensuring timely treatment.
+', img = 'images.jpg' WHERE id = 12' at line 1 in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php:44
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php(44): mysqli_query(Object(mysqli), 'UPDATE services...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php on line 44
+[01-Jul-2025 07:19:08 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:19:08 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:19:08 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:19:12 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:19:12 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:19:12 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:19:18 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:19:18 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:19:18 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:20:30 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:20:30 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:20:30 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:21:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's health and safety.', img = 'images (1).jpg' WHERE id = 13' at line 1 in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php:44
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php(44): mysqli_query(Object(mysqli), 'UPDATE services...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/update_service.php on line 44
+[01-Jul-2025 07:21:36 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:21:36 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:21:36 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:23:04 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:23:04 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:23:04 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:23:15 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:23:15 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:23:15 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:24:19 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:24:19 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:24:19 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:24:50 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:24:50 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:24:50 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:24:58 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:24:58 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:24:58 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:26:29 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:26:29 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:26:29 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 07:33:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's oral hygiene with this dental care set, including a toothbrush, toothpaste,...' at line 3 in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php:45
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php(45): mysqli_query(Object(mysqli), 'UPDATE products...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php on line 45
+[01-Jul-2025 07:33:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's oral hygiene with this dental care set, including a toothbrush, toothpaste,...' at line 3 in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php:45
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php(45): mysqli_query(Object(mysqli), 'UPDATE products...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/editproduct.php on line 45
+[01-Jul-2025 11:06:06 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 11:06:06 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 11:06:06 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 11:06:33 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 11:06:33 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
+[01-Jul-2025 11:06:33 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/codewith/curemypet.codewithahmedkhan.com/dashboard/services.php on line 130
