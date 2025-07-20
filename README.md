@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://raw.githubusercontent.com/codewithahmedkhan/CureMyPet/main/img/to-next-level-pet-care.webp" alt="CureMyPet Banner" width="100%">
+      <img src="https://raw.githubusercontent.com/codewithahmedkhan/CureMyPet/main/img/Picture1.png" alt="CureMyPet Banner" width="100%">
   <br />
   
   <div>
