@@ -4,11 +4,12 @@
   <br />
   
   <div>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-    <img src="https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
     <img src="https://img.shields.io/badge/-Botpress-1C7ED6?style=for-the-badge&logo=chatbot&logoColor=white" alt="Botpress" />
   </div>
 
@@ -29,7 +30,7 @@
 6. 🏗️ [Project Structure](#structure)
 7. 📊 [Database Schema](#database)
 8. 🔐 [Security](#security)
-9. 🌐 [Demo](#demo)
+9. 🌐 [Live Demo](#demo)
 10. 👨‍💻 [About Developer](#about)
 11. 🤝 [Contributing](#contributing)
 
@@ -46,15 +47,16 @@ CureMyPet is a comprehensive veterinary care platform designed to streamline pet
 - **PHPMailer** - Email functionality
 
 ### Frontend
+- **HTML5** - Semantic markup and structure
+- **CSS3** - Modern styling with animations and responsive design
+- **JavaScript** - Client-side interactivity and functionality
 - **Bootstrap 5** - Responsive UI framework
-- **jQuery** - JavaScript library
 - **Font Awesome** - Icon library
 - **Custom CSS** - Modern styling with gradients
 - **SCSS** - CSS preprocessor
 
 ### Third-Party Integrations
 - **Botpress** - AI-powered chatbot
-- **Stripe** - Payment processing (ready for integration)
 - **Cloudinary** - Image management (ready for integration)
 
 ### Development Tools
@@ -151,29 +153,6 @@ chmod -R 777 dashboard/service_image/
 ```
 http://localhost/CureMyPet
 ```
-
-### Default Credentials
-- **Admin Panel**: `/dashboard/login.php`
-  - Username: `admin@curemypet.com`
-  - Password: `admin123`
-  
-- **Doctor Panel**: `/dr_panel/login.php`
-  - Username: `doctor@curemypet.com`
-  - Password: `doctor123`
-
-## <a name="screenshots">📱 Screenshots</a>
-
-### Homepage
-<img src="https://raw.githubusercontent.com/codewithahmedkhan/CureMyPet/main/screenshots/homepage.png" alt="Homepage" width="100%">
-
-### Appointment Booking
-<img src="https://raw.githubusercontent.com/codewithahmedkhan/CureMyPet/main/screenshots/appointment.png" alt="Appointment Booking" width="100%">
-
-### Product Catalog
-<img src="https://raw.githubusercontent.com/codewithahmedkhan/CureMyPet/main/screenshots/products.png" alt="Products" width="100%">
-
-### Admin Dashboard
-<img src="https://raw.githubusercontent.com/codewithahmedkhan/CureMyPet/main/screenshots/admin-dashboard.png" alt="Admin Dashboard" width="100%">
 
 ## <a name="structure">🏗️ Project Structure</a>
 
@@ -325,12 +304,19 @@ $stmt->bind_param("s", $email);
 
 ## <a name="demo">🌐 Live Demo</a>
 
-🔗 **Live URL**: [Coming Soon]
+🔗 **Main Site**: [https://curemypet.site/](https://curemypet.site/)
 
-### Test Accounts
-- **Customer**: demo@curemypet.com / demo123
-- **Doctor**: drdemo@curemypet.com / doctor123
-- **Admin**: admin@curemypet.com / admin123
+### Panel Access
+
+#### 👨‍⚕️ Doctor Panel
+- **URL**: [https://curemypet.site/dr_panel/](https://curemypet.site/dr_panel/)
+- **Email**: mike@gmail.com
+- **Password**: ahmedkhan
+
+#### 👤 Admin Panel
+- **URL**: [https://curemypet.site/dashboard/](https://curemypet.site/dashboard/)
+- **Username**: admin
+- **Password**: ahmedkhan
 
 ## <a name="about">👨‍💻 About Developer</a>
 
@@ -338,7 +324,7 @@ Hi! I'm **Ahmed Khan**, a passionate full-stack developer specializing in web ap
 
 - 🌐 **Portfolio**: [codewithahmedkhan.com](https://codewithahmedkhan.com)
 - 💼 **GitHub**: [@codewithahmedkhan](https://github.com/codewithahmedkhan)
-- 📧 **Email**: codewithahmedkhan@gmail.com
+- 📧 **Email**: info@codewithahmedkhan.com
 - 💬 **LinkedIn**: [Ahmed Khan](https://linkedin.com/in/codewithahmedkhan)
 
 ## <a name="contributing">🤝 Contributing</a>
