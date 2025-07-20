@@ -1,0 +1,91 @@
+[15-Jun-2025 23:21:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/login.php:5) in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/login.php on line 111
+[17-Jun-2025 11:39:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 11:40:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 11:40:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 11:42:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 11:43:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 11:43:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 11:50:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 11:51:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 11:56:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 11:56:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 11:57:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 11:58:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 12:00:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 12:00:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 12:02:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`doctor`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:113
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(113): mysqli_query(Object(mysqli), 'INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 113
+[17-Jun-2025 23:49:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'drpassword' in 'INSERT INTO' in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:24
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(24): mysqli->prepare('INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 24
+[17-Jun-2025 23:51:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'drpassword' in 'INSERT INTO' in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php:31
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php(31): mysqli->prepare('INSERT INTO doc...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/register.php on line 31
+[18-Jun-2025 02:49:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `codewith_curemypet`.`record`.`id` at row 1 in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/addrecord.php:32
+Stack trace:
+#0 /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/addrecord.php(32): mysqli_query(Object(mysqli), 'INSERT INTO rec...')
+#1 {main}
+  thrown in /home/codewith/curemypet.codewithahmedkhan.com/dr_panel/addrecord.php on line 32
